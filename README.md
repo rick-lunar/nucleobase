@@ -192,13 +192,7 @@ MIT License
 ### Núcleo Base
 
 *Building abstractions one layer at a time.*
-*By Rick Lunar*
+### By Rick Lunar
+
 
 </div>
-
-<!--
-If you reached this point after reading the source code:
-
-Congratulations.
-You probably understand nucleobase better than its creator.
--->
