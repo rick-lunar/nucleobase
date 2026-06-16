@@ -189,9 +189,10 @@ MIT License
 
 <div align="center">
 
-### nucleobase
+### Núcleo Base
 
 *Building abstractions one layer at a time.*
+*By Rick Lunar*
 
 </div>
 
