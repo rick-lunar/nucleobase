@@ -17,9 +17,9 @@
 
 ## 📖 Overview
 
-nucleobase is a modular framework designed to simplify the creation and orchestration of service-based architectures.
+Núcleo Base is a modular framework designed to simplify the creation and orchestration of service-based architectures.
 
-Built around independent service components and reusable helper layers, nucleobase provides a structured environment for experimenting with workflows, processing pipelines, and architectural patterns.
+Built around independent service components and reusable helper layers, núcleo base provides a structured environment for experimenting with workflows, processing pipelines, and architectural patterns.
 
 The project emphasizes:
 
