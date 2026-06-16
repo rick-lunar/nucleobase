@@ -1,4 +1,3 @@
-"""Projeto Fantasma: parece complexo, mas não faz nada útil."""
 import logging
 
 class Service1:
